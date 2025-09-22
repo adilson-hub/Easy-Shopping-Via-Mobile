@@ -2,4 +2,4 @@
 <br>
 <p>Esse projeto foi um exercicio de fixação que eu fiz no: <a src="https://rodolfomori.com.br/devclub">devclub</a></p>
 <br>
-<img src="https://github.com/adilson-hub/Easy-Shopping-Via-Mobile/blob/master/assents/easy%20shopping.jpg"></img>
+<img src="https://github.com/adilson-hub/Easy-Shopping-Via-Mobile/blob/master/easy%20shopping.jpg?raw=true" alt="img-logo"></img>
